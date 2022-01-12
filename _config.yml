@@ -1,4 +1,4 @@
-title: "Arianna M. Varuolo-Clarke"
+title: "Arianna M. Varuolo-Clarke, M.S."
 author: "Arianna Varolo-Clarke"
 description: "Ph.D. Candidate at Lamont-Doherty Earth Observatory of Columbia University" 
 permalink: /:title/
@@ -16,10 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "home"}
-  - {file: "index-2.html", title: "about me"}
-  - {file: "publications.md", title: "publications"}
-  - {url: "/ari_cv.pdf", title: "cv"}
+  - {file: "index.md", title: "Home"}
+  - {file: "publications.md", title: "Publications"}
+  - {url: "/ari_cv.pdf", title: "CV"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
