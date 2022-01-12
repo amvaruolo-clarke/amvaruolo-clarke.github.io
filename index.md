@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![](Ari_headshot_10072021_laughing.jpg)
+![](/Ari_headshot_10072021_laughing.jpg)
 
 Hello and welcome! I am a PhD candidate at the Lamont-Doherty Earth Observatory of Columbia University in the City of New York. 
 
