@@ -3,8 +3,7 @@ layout: page
 title: "Peer-reviewed publications"
 ---
 
-[4]Accepted. Rodriguez-Caton M, Andreu-Hayles L, Daux V, Vuille M, **Varuolo-Clarke AM**, Oelkers R, Christie DA, D’Arrigo R, Morales MS, Palat Rao M, Srur AM, Vimeux F, Villalba R. Hydroclimate and ENSO Variability Recorded by Oxygen Isotopes from Tree Rings in the South American Altiplano. Geophysical Research Letters.
-Under review. Williams AP, Livneh B, McKinnon KA, Hansen WD, Mankin JS, Cook BI, Smerdon JE, Varuolo-Clarke AM, Bjarke NR, Juang CS, Lettenmaier DP. Growing impact of wildfire on western United States water supply. Proceedings of the National Academy of Sciences USA.   
+[4] Accepted. Rodriguez-Caton M, Andreu-Hayles L, Daux V, Vuille M, **Varuolo-Clarke AM**, Oelkers R, Christie DA, D’Arrigo R, Morales MS, Palat Rao M, Srur AM, Vimeux F, Villalba R. Hydroclimate and ENSO Variability Recorded by Oxygen Isotopes from Tree Rings in the South American Altiplano. Geophysical Research Letters.  
 
 [3] 2021. Steiger NJ, Smerdon JE, Williams AP, Seager R, **Varuolo-Clarke AM**. Coupled megadrought risk in North and South America. Nature Geoscience, https://doi.org/10.1038/s41561-021-00819-9 
 
