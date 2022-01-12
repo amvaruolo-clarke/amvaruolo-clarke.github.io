@@ -11,5 +11,4 @@ Prior to beginning my Ph.D., I earned my M.S. at the School of Marine and Atmosp
 
 My academic journey began in the Northeast Kingdom of Vermont where I recieved my B.S. in Atmospheric Science from Northern Vermont University (formerly Lyndon State College).
 
-#### Contact me! 
 Email: ariannav at ldeo dot columbia dot edu
