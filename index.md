@@ -10,3 +10,6 @@ Hello and welcome! I am a Ph.D. candidate at the Lamont-Doherty Earth Observator
 Prior to beginning my Ph.D., I earned my M.S. at the School of Marine and Atmospheric Science at Stony Brook University where my I was advised by [Dr. Kevin Reed](https://you.stonybrook.edu/kareed/). During my M.S. I sought to understand global climate models ability to simulate the northerly extent of precipitation associatd with the North American monsoon. 
 
 My academic journey began in the Northeast Kingdom of Vermont where I recieved my B.S. in Atmospheric Science from Northern Vermont University (formerly Lyndon State College).
+
+#### Contact me! 
+Email: ariannav at ldeo dot columbia dot edu
