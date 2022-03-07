@@ -5,9 +5,9 @@ title: "Peer-reviewed publications"
 
 Under review. **Varuolo-Clarke, AM**, Williams, AP, Smerdon, JE, Ting, M., Bishop, DA. An intensified moisture flux of the low-level jet drove half of the large wetting trend in southeastern South America from 1949-2020. *Geophysical Research Letters*.
 
-[5] Accepted. Williams AP, Livneh B, McKinnon KA, Hansen WD, Mankin JS, Cook BI, Smerdon JE, **Varuolo-Clarke AM**, Bjarke NR, Juang CS, Lettenmaier DP. Growing impact of wildfire on western United States water supply. *Proceedings of the National Academy of Sciences USA*.   
+[5] 2022. Williams AP, Livneh B, McKinnon KA, Hansen WD, Mankin JS, Cook BI, Smerdon JE, **Varuolo-Clarke AM**, Bjarke NR, Juang CS, Lettenmaier DP. Growing impact of wildfire on western United States water supply. *Proceedings of the National Academy of Sciences USA*, [https://doi.org/10.1073/pnas.2114069119](https://doi.org/10.1073/pnas.2114069119).   
 
-[4] Accepted. Rodriguez-Caton M, Andreu-Hayles L, Daux V, Vuille M, **Varuolo-Clarke AM**, Oelkers R, Christie DA, D’Arrigo R, Morales MS, Palat Rao M, Srur AM, Vimeux F, Villalba R. Hydroclimate and ENSO Variability Recorded by Oxygen Isotopes from Tree Rings in the South American Altiplano. *Geophysical Research Letters*.  
+[4] 2022. Rodriguez-Caton M, Andreu-Hayles L, Daux V, Vuille M, **Varuolo-Clarke AM**, Oelkers R, Christie DA, D’Arrigo R, Morales MS, Palat Rao M, Srur AM, Vimeux F, Villalba R. Hydroclimate and ENSO Variability Recorded by Oxygen Isotopes from Tree Rings in the South American Altiplano. *Geophysical Research Letters*, [https://doi.org/10.1029/2021GL095883](https://doi.org/10.1029/2021GL095883).
 
 [3] 2021. Steiger NJ, Smerdon JE, Williams AP, Seager R, **Varuolo-Clarke AM**. Coupled megadrought risk in North and South America. *Nature Geoscience*, [https://doi.org/10.1038/s41561-021-00819-9](https://doi.org/10.1038/s41561-021-00819-9)
 
