@@ -3,7 +3,7 @@ layout: page
 title: "Peer-reviewed publications"
 ---
 
-Under review. **Varuolo-Clarke, AM**, Williams, AP, Smerdon, JE, Ting, M., Bishop, DA. An intensified moisture flux of the low-level jet drove half of the large wetting trend in southeastern South America from 1949-2020. *Geophysical Research Letters*.
+[6] Accepted. **Varuolo-Clarke, AM**, Williams, AP, Smerdon, JE, Ting, M., Bishop, DA. Influence of the South American low-level jet on the austral summer precipitation trend in southeastern South America. *Geophysical Research Letters*.
 
 [5] 2022. Williams AP, Livneh B, McKinnon KA, Hansen WD, Mankin JS, Cook BI, Smerdon JE, **Varuolo-Clarke AM**, Bjarke NR, Juang CS, Lettenmaier DP. Growing impact of wildfire on western United States water supply. *Proceedings of the National Academy of Sciences USA*, [https://doi.org/10.1073/pnas.2114069119](https://doi.org/10.1073/pnas.2114069119).   
 
