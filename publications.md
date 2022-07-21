@@ -3,6 +3,8 @@ layout: page
 title: "Peer-reviewed publications"
 ---
 
+[7] Accepted. Cook, B.I, J.E Smerdon, E.R Cook, A.P. Williams, K.J Anchukaitis, J.S Mankin, K. Allen, L. Andreu-Hayles, T.R Ault, S. Belmecheri, S. Coats, B. Coulthard, B. Fosu, P. Grierson, D. Griffin, D.A Herrera, M. Ionita, F. Lehner, C. Leland, K. Marvel, M.S Morales, V. Mishra, J. Ngoma, H.T.T Nguyen, A. O'Donnell, J. Palmer, M.P Rao, M. Rodriguez-Caton, R. Seager, D.W Stahle, S. Stevenson, U.K Thapa, A.M Varuolo-Clarke, E.K Wise, 2022: Megadroughts in the Common Era and the Anthropocene. Nat. Rev. Earth Environ.
+
 [6] 2022. **Varuolo-Clarke, AM**, Williams, AP, Smerdon, JE, Ting, M., Bishop, DA. Influence of the South American low-level jet on the austral summer precipitation trend in southeastern South America. *Geophysical Research Letters*, [https://doi.org/10.1029/2021GL096409](https://doi.org/10.1029/2021GL096409).
 
 [5] 2022. Williams AP, Livneh B, McKinnon KA, Hansen WD, Mankin JS, Cook BI, Smerdon JE, **Varuolo-Clarke AM**, Bjarke NR, Juang CS, Lettenmaier DP. Growing impact of wildfire on western United States water supply. *Proceedings of the National Academy of Sciences USA*, [https://doi.org/10.1073/pnas.2114069119](https://doi.org/10.1073/pnas.2114069119).   
